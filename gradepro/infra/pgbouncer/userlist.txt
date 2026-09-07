@@ -1,0 +1,3 @@
+"app_rw" "gradepro_dev_password"
+"app_ro" "gradepro_readonly_password"
+"postgres" "gradepro_dev_password"

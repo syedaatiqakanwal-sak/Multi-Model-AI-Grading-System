@@ -1,0 +1,15 @@
+# Local student submissions and generated reports at repo root
+/*.docx
+/*.pdf
+/*.xlsx
+/*.png
+
+# Also honor app ignores if git is run from this root
+gradepro/.env
+gradepro/secrets/
+gradepro/models/*
+!gradepro/models/README.md
+gradepro/**/node_modules/
+gradepro/**/.next/
+gradepro/**/__pycache__/
+gradepro/**/.pytest_cache/

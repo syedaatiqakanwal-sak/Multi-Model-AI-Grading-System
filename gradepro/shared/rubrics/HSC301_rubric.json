@@ -1,0 +1,242 @@
+{
+  "unit_code": "HSC301",
+  "unit_title": "An Introduction to Health and Social Care",
+  "qualification": "QUALIFI Level 3 Diploma in Health and Social Care",
+  "awarding_body": "QUALIFI",
+  "centre_name": "UK Professional Development Academy",
+  "level": 3,
+  "credit_value": 10,
+
+  "word_count_min": 1850,
+  "word_count_max": 2150,
+  "word_count_note": "Excludes index, headings, tables, images, footnotes, appendices, and reference list. Submitting significantly less may lead to refer.",
+
+  "formatting_rules": {
+    "font_family": "Times New Roman",
+    "font_size_body": 12,
+    "font_size_heading": 13,
+    "font_size_heading_bold": true,
+    "font_size_subheading": 12,
+    "font_size_subheading_bold": true,
+    "alignment": "justified",
+    "line_spacing": 1.0,
+    "paragraph_form": "Responses must be written in full paragraphs with appropriate headings. Bullet points and short sentences should be avoided.",
+    "criterion_statement_required": true,
+    "criterion_statement_note": "Include the assessment criterion statement before each response for clarity.",
+    "required_sections": [
+      "Introduction",
+      "Task 1",
+      "Task 2",
+      "Task 3",
+      "Conclusion",
+      "Bibliography"
+    ]
+  },
+
+  "referencing_requirements": {
+    "style": "Harvard",
+    "in_text_citations_required": true,
+    "in_text_per_criterion": true,
+    "bibliography_required": true,
+    "source_recency_years": 5,
+    "acceptable_sources": ["peer-reviewed journals", "academic books", "government publications", "official organisational reports"],
+    "unacceptable_sources": ["Wikipedia", "blogs", "job sites", "non-peer-reviewed websites"],
+    "minimum_citations_note": "In-text citations must be included for each criterion with full references listed in the bibliography using correct Harvard formatting.",
+    "grading_impact": "Absence of in-text citations or a bibliography is a refer indicator."
+  },
+
+  "academic_integrity": {
+    "plagiarism_policy": "All submitted work must be the learner's own. Plagiarism, collusion, and self-plagiarism are academic misconduct.",
+    "ai_generated_content": "AI-generated content is not permitted. Submissions relying on AI-generated text lack depth and originality.",
+    "authenticity_statement_required": true,
+    "plagiarism_report_required": true,
+    "plagiarism_tools": ["Grammarly plagiarism checker", "ScanMyEssay"],
+    "integrity_report_fields": {
+      "ai_detection_score": true,
+      "ai_flagged": true,
+      "plagiarism_similarity_pct": true,
+      "plagiarism_top_matches": true,
+      "review_required_banner": true
+    }
+  },
+
+  "grading_guidance": {
+    "pass_standard": "To achieve a Pass, learners must provide clear and sufficient evidence that all learning outcomes have been met and each assessment criterion has been fully addressed.",
+    "refer_triggers": [
+      "Any assessment criterion not addressed or addressed only superficially",
+      "Absence of Harvard in-text citations",
+      "No bibliography section",
+      "Word count significantly below 1850",
+      "Responses consist entirely of bullet points with no paragraph development",
+      "Irrelevant content that does not align with the criterion action verb"
+    ],
+    "action_verbs": {
+      "explain": "Provide a clear account including why and how — not just naming something.",
+      "discuss": "Consider the subject from different viewpoints, examining arguments for and against.",
+      "identify": "Clearly recognise and name specific facts, features, or bodies — listing is acceptable.",
+      "evaluate": "Judge the significance, value, or quality after studying good and bad features with evidence.",
+      "describe": "Create a detailed picture with words — not a bullet-point list.",
+      "analyse": "Examine carefully and in detail, identifying components and exploring relationships."
+    }
+  },
+
+  "learning_outcomes": [
+    {
+      "id": "LO1",
+      "title": "Understand the main roles and responsibilities of Health and Social Care workers when delivering care.",
+      "criteria": [
+        {
+          "id": "1.1",
+          "task": "Task 1",
+          "action_verb": "explain",
+          "description": "Explain how health and social care professionals protect individuals in their care.",
+          "guidance": "Health and social care professionals are individuals who work in roles focused on supporting people's physical, mental, emotional, and social well-being across settings like hospitals, clinics, care homes, and community centres.",
+          "key_topics": [
+            "safeguarding",
+            "duty of care",
+            "dignity",
+            "confidentiality",
+            "risk assessment",
+            "Care Act 2014",
+            "Mental Capacity Act",
+            "protection from abuse",
+            "person-centred care",
+            "professional standards"
+          ],
+          "refer_if": "The learner only names professionals without explaining how they protect individuals, or omits key concepts such as safeguarding or duty of care."
+        },
+        {
+          "id": "1.2",
+          "task": "Task 1",
+          "action_verb": "discuss",
+          "description": "Discuss the mechanisms for reporting poor practice in Health and Social care.",
+          "guidance": "Reporting mechanisms are the formal ways of raising concerns about poor practice, such as incident forms, whistleblowing procedures, supervision, and safeguarding referrals.",
+          "key_topics": [
+            "whistleblowing",
+            "incident reporting",
+            "safeguarding referrals",
+            "supervision",
+            "CQC reporting",
+            "Public Interest Disclosure Act",
+            "internal escalation",
+            "raising concerns",
+            "regulatory body complaints"
+          ],
+          "refer_if": "The learner does not discuss specific mechanisms — merely stating 'you should report it' without naming formal procedures is insufficient."
+        }
+      ]
+    },
+    {
+      "id": "LO2",
+      "title": "Understand the importance of regulatory bodies in the delivery of high-quality care.",
+      "criteria": [
+        {
+          "id": "2.1",
+          "task": "Task 2",
+          "action_verb": "discuss",
+          "description": "Discuss the roles of regulatory bodies that inspect Health and Social care provision.",
+          "guidance": "Regulatory bodies are official organisations established by the government or legal framework to monitor, inspect, and regulate the quality and safety of health and social care services.",
+          "key_topics": [
+            "Care Quality Commission (CQC)",
+            "inspections",
+            "quality standards",
+            "Ofsted",
+            "NICE",
+            "Healthcare Inspectorate Wales",
+            "Healthcare Improvement Scotland",
+            "safe effective caring responsive well-led",
+            "enforcement powers",
+            "registration requirements"
+          ],
+          "refer_if": "The learner only names the CQC without discussing what it does, or does not discuss any inspection role or regulatory function."
+        },
+        {
+          "id": "2.2",
+          "task": "Task 2",
+          "action_verb": "identify",
+          "description": "Identify the professional bodies that regulate the professions within health and social care.",
+          "guidance": "Professional bodies regulate individual practitioners, ensuring fitness to practise and professional standards — distinct from regulatory bodies that inspect services.",
+          "key_topics": [
+            "General Medical Council (GMC)",
+            "Nursing and Midwifery Council (NMC)",
+            "Health and Care Professions Council (HCPC)",
+            "Social Work England",
+            "General Dental Council (GDC)",
+            "General Pharmaceutical Council (GPhC)",
+            "registration",
+            "fitness to practise",
+            "professional standards",
+            "code of conduct"
+          ],
+          "refer_if": "The learner confuses regulatory bodies (CQC) with professional bodies (NMC, GMC), or only names one professional body without identifying others."
+        }
+      ]
+    },
+    {
+      "id": "LO3",
+      "title": "Evaluate the role of the interprofessional team in delivering Health and Social care.",
+      "criteria": [
+        {
+          "id": "3.1",
+          "task": "Task 3",
+          "action_verb": "explain",
+          "description": "Explain the roles and responsibilities of the inter-professional team in meeting care needs in the case study.",
+          "guidance": "An inter-professional team is a group of professionals from different disciplines (e.g., doctors, nurses, social workers, therapists) who work together to plan and deliver coordinated, person-centred care. The response must reference the case study provided in the assignment brief.",
+          "key_topics": [
+            "inter-professional team",
+            "coordinated care",
+            "person-centred support",
+            "doctors",
+            "nurses",
+            "social workers",
+            "occupational therapists",
+            "case study",
+            "care plan",
+            "MDT meetings",
+            "communication between professionals"
+          ],
+          "refer_if": "The learner provides a generic description of team roles without referencing the case study, or does not explain how different professionals collaborate to meet the individual's needs."
+        },
+        {
+          "id": "3.2",
+          "task": "Task 3",
+          "action_verb": "discuss",
+          "description": "Discuss the difference between multi-disciplinary and inter-professional team working.",
+          "guidance": "A multidisciplinary team consists of different professionals working on the same case but may not fully share decision-making or collaborate as closely as inter-professional teams.",
+          "key_topics": [
+            "MDT",
+            "inter-professional",
+            "shared decision-making",
+            "collaborative practice",
+            "role boundaries",
+            "communication",
+            "integrated working",
+            "parallel working",
+            "team collaboration"
+          ],
+          "refer_if": "The learner treats MDT and inter-professional working as identical, or simply defines one without discussing the differences between them."
+        },
+        {
+          "id": "3.3",
+          "task": "Task 3",
+          "action_verb": "discuss",
+          "description": "Discuss the potential barriers to teamwork and how they could be overcome.",
+          "guidance": "Barriers to teamwork include factors such as poor communication, different priorities, unclear roles, or lack of shared information.",
+          "key_topics": [
+            "communication breakdowns",
+            "professional silos",
+            "lack of training",
+            "clear role definitions",
+            "cultural differences",
+            "workload pressures",
+            "information sharing",
+            "overcoming barriers",
+            "strategies for improvement",
+            "leadership"
+          ],
+          "refer_if": "The learner only lists barriers without discussing how they could be overcome, or provides only one barrier with no depth."
+        }
+      ]
+    }
+  ]
+}
